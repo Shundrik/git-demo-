@@ -1,0 +1,102 @@
+[33mcommit 3a60a1d9e273748060a36682135bf8f5d6f00947[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: c2758ea ec3d8f0
+Author: Sasha Sh <shundrik.sh@gmail.com>
+Date:   Sat Aug 26 16:00:29 2023 +0300
+
+    Merge branch 'feature'
+    
+    # Conflicts:
+    #       arrows.txt
+
+[33mcommit c2758eadd0f883d7345026e545cc6eba605180f1[m
+Author: Sasha Sh <shundrik.sh@gmail.com>
+Date:   Sat Aug 26 15:56:02 2023 +0300
+
+    test
+
+[33mcommit ec3d8f012cf93159945fc30f81bd6dcea1fca166[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Sasha Sh <shundrik.sh@gmail.com>
+Date:   Sat Aug 26 15:54:04 2023 +0300
+
+    next text
+
+[33mcommit fe0bf435253a6bdc5cf7ec08f3beafe90e848da2[m
+Merge: 5445f06 579f0e7
+Author: Sasha Sh <shundrik.sh@gmail.com>
+Date:   Sat Aug 26 15:47:39 2023 +0300
+
+    Merge branch 'feature'
+
+[33mcommit 579f0e7f94290e1bb4ee9ecfc90c529ffb2040c8[m
+Author: Sasha Sh <shundrik.sh@gmail.com>
+Date:   Sat Aug 26 15:46:39 2023 +0300
+
+    delete all text without first couplet
+
+[33mcommit 5445f06c0b03c92a1fb3029428930c128aa8b4b5[m
+Author: Sasha Sh <shundrik.sh@gmail.com>
+Date:   Sat Aug 26 15:44:53 2023 +0300
+
+    mine commit
+
+[33mcommit ea7a5fe0a991a5ddc00af4f2f7ae43152016ca46[m
+Author: Sasha Sh <shundrik.sh@gmail.com>
+Date:   Sat Aug 26 15:38:36 2023 +0300
+
+    second commit
+
+[33mcommit 45327a5197935ff77414d97c954fc74a80cde6b9[m
+Author: Sasha Sh <shundrik.sh@gmail.com>
+Date:   Sat Aug 26 15:33:11 2023 +0300
+
+    brunch feature
+
+[33mcommit 03f1421c414f265aaa311c49739824655e3d3568[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sasha Sh <shundrik.sh@gmail.com>
+Date:   Fri Aug 25 01:05:29 2023 +0300
+
+    Revert "Revert "add 11111""
+    
+    This reverts commit 75212b8d6baff99dee43998fe5b7095bb9b0bbc6.
+
+[33mcommit 75212b8d6baff99dee43998fe5b7095bb9b0bbc6[m
+Author: Sasha Sh <shundrik.sh@gmail.com>
+Date:   Fri Aug 25 00:58:35 2023 +0300
+
+    Revert "add 11111"
+    
+    This reverts commit 8845df7187d2a3f2e52addae5bdd87a1374f9911.
+    
+    I`m so sorry
+
+[33mcommit 8845df7187d2a3f2e52addae5bdd87a1374f9911[m
+Author: Sasha Sh <shundrik.sh@gmail.com>
+Date:   Fri Aug 25 00:56:36 2023 +0300
+
+    add 11111
+
+[33mcommit 664bf3aa8e976ec7811b3a591943891241de98a6[m
+Author: Sasha Sh <shundrik.sh@gmail.com>
+Date:   Thu Aug 24 00:13:13 2023 +0300
+
+    add next line
+
+[33mcommit 6fc5694b213a56a1ad9c49c15b76e763b8b23adb[m
+Author: Sasha <102665832+Shundrik@users.noreply.github.com>
+Date:   Thu Aug 24 00:02:49 2023 +0300
+
+    Update song.txt
+    
+    add second part
+
+[33mcommit 2c109fd20a625a2e1c2236164cc29d87928e39ff[m
+Author: Sasha Sh <shundrik.sh@gmail.com>
+Date:   Wed Aug 23 23:58:21 2023 +0300
+
+    add first two lines in the song
+
+[33mcommit 0b3f868945526da31443ad3b68d4c1ba7b6f5636[m
+Author: Sasha <102665832+Shundrik@users.noreply.github.com>
+Date:   Wed Aug 23 23:21:31 2023 +0300
+
+    Initial commit
